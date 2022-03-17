@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Plane PBR 2K
+* source:	https://sketchfab.com/3d-models/toy-plane-pbr-2k-901b2ef2269149009c88c8602c51f76b
+* author:	Riley Lewand (https://sketchfab.com/rileylewandowski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Plane PBR 2K" (https://sketchfab.com/3d-models/toy-plane-pbr-2k-901b2ef2269149009c88c8602c51f76b) by Riley Lewand (https://sketchfab.com/rileylewandowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
